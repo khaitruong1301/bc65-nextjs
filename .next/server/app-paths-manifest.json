@@ -1,0 +1,7 @@
+{
+  "/(pages)/detail/[tham_so]/page": "app/(pages)/detail/[tham_so]/page.js",
+  "/(pages)/search/page": "app/(pages)/search/page.js",
+  "/(pages)/login/page": "app/(pages)/login/page.js",
+  "/(pages)/register/page": "app/(pages)/register/page.js",
+  "/(pages)/about/page": "app/(pages)/about/page.js"
+}
