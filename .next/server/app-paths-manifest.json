@@ -1,7 +1,7 @@
 {
-  "/(pages)/detail/[tham_so]/page": "app/(pages)/detail/[tham_so]/page.js",
-  "/(pages)/search/page": "app/(pages)/search/page.js",
+  "/page": "app/page.js",
   "/(pages)/login/page": "app/(pages)/login/page.js",
-  "/(pages)/register/page": "app/(pages)/register/page.js",
-  "/(pages)/about/page": "app/(pages)/about/page.js"
+  "/users/register/page": "app/users/register/page.js",
+  "/(pages)/about/page": "app/(pages)/about/page.js",
+  "/admin/page": "app/admin/page.js"
 }

@@ -8,6 +8,17 @@ const nextConfig = {
                 hostname: 'i.pravatar.cc',
                 port: '',
                 pathname: '/**'
+            },
+            {
+                protocol: 'https',
+                hostname: 'apistore.cybersoft.edu.vn',
+                port: '',
+                pathname: '/**'
+            },{
+                protocol: 'https',
+                hostname: 'picsum.photos',
+                port: '',
+                pathname: '/**'
             }
         ]
     }
